@@ -1,1 +1,2 @@
 Hello Git first text changes in branch!!!
+second text changes in branch
